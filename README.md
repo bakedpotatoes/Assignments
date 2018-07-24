@@ -1,11 +1,11 @@
 # Assignments
-University assignments
+University assignments, the Tree Template from the University.
 
 This is a lovely little assignment that given a text:
 
 "Apples are sometimes green"
 
-By means of a trees, Huffman, and a frankenstein versin of radix sort you can obtain a functional compression code based on frequency of repetion of a character.  It's beautiful.
+By means of a trees, Huffman, and a frankenstein version of radix sort you can obtain a functional compression code based on frequency of repetion of a character.  It's beautiful.
 
 *************************
 ---------->> CONSTRUINT TAULA... 
